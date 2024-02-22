@@ -20,6 +20,6 @@
     "source.fixAll": "explicit",
     "source.fixAll.eslint": "explicit"
   },
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "javascript.format.enable": false
 }
